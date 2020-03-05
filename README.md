@@ -4,9 +4,9 @@
 ******
 pycharm+pyQt制作
 ******
-UI
+# UI
 ![Image text](https://github.com/zhongzhehua/Scientific-Calculator/blob/master/UI.png)
-复杂运算测试
+# 复杂运算测试
 ![Image text](https://github.com/zhongzhehua/Scientific-Calculator/blob/master/TEST.png)
-测试自动添加三角函数括号
+# 测试自动添加三角函数括号
 ![Image text](https://github.com/zhongzhehua/Scientific-Calculator/blob/master/TEST-2.png)
